@@ -2,10 +2,11 @@ import React from "react";
 import { Popup } from "react-leaflet";
 
 const MarkerPopup = (props) => {
-  const { name } = props.data;
+  const { name, fecha } = props.data;
   return (
     <Popup>
-      <div>{name}</div>
+      <div>Nombre: {name}</div>
+      <div>Fecha: {fecha}</div>
     </Popup>
   );
 };

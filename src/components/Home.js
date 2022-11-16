@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import './Home.css'
+import fondo from "../assets/fondo.png"
 
 const Home = () => {
   const [state, setState] = useState({
@@ -26,10 +28,21 @@ const Home = () => {
   }, []);
 
   return (
-    <div>
-      <h1>Geolocation</h1>
-      <p>Latitud: {state.latitude}</p>
-      <p>longitud: {state.longitude}</p>
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      width: '100vw',
+      height: '100vh',
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundImage: `url(${fondo})`,
+      backgroundRepeat: 'no-repeat',
+      backgroundSize: 'cover'
+    }}>
+      <h1 style={{ color: 'white', background: 'rgb(51 181 229 / 40%)' }}>Domicilios Brioche</h1><br />
+      <p style={{ color: 'white', background: 'rgb(51 181 229 / 40%)' }}>Tu Ubicación:</p><br />
+      <p style={{ color: 'white', background: 'rgb(51 181 229 / 40%)' }}>Latitud: {state.latitude}</p><br />
+      <p style={{ color: 'white', background: 'rgb(51 181 229 / 40%)' }}>longitud: {state.longitude}</p><br />
 
       <Link
         to={{
@@ -39,6 +52,7 @@ const Home = () => {
           // }
           state,
         }}
+        style={{ background: 'rgb(51 181 229 / 40%)' }}
       >
         Ver Marcadores
       </Link>
