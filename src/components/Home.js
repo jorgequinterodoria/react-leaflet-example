@@ -36,8 +36,8 @@ const Home = () => {
       <div style={{
         display: 'flex',
         flexDirection: 'column',
-        width: '100vw',
-        height: '60vh',
+        width: '102vw',
+        height: '70vh',
         alignItems: 'center',
         backgroundImage: `url(${fondo})`,
         backgroundRepeat: 'no-repeat',
