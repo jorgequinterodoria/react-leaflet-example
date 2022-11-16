@@ -28,8 +28,8 @@ const Home = () => {
   return (
     <div>
       <h1>Geolocation</h1>
-      <p>Latitude: {state.latitude}</p>
-      <p>longitude: {state.longitude}</p>
+      <p>Latitud: {state.latitude}</p>
+      <p>longitud: {state.longitude}</p>
 
       <Link
         to={{
@@ -40,7 +40,7 @@ const Home = () => {
           state,
         }}
       >
-        See marker
+        Ver Marcadores
       </Link>
     </div>
   );
