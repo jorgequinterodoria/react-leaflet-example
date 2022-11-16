@@ -42,7 +42,7 @@ const Home = () => {
         backgroundImage: `url(${fondo})`,
         backgroundRepeat: 'no-repeat',
       }}>
-        <h1 >Domicilios Brioche</h1><br />
+        <h1 style={{ marginTop: '10px' }}>Domicilios Brioche</h1><br />
         <p >Tu Ubicación:</p><br />
         <p >Latitud: {state.latitude}</p><br />
         <p >longitud: {state.longitude}</p><br />
