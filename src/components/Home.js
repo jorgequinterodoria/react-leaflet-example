@@ -55,7 +55,6 @@ const Home = () => {
             // }
             state,
           }}
-          style={{ background: 'rgb(51 181 229 / 40%)' }}
         >
           Ver Marcadores
         </Link>
