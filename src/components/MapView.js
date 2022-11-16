@@ -39,6 +39,7 @@ const MapView = (props) => {
         state: {},
       });
     }
+    // eslint-disable-next-line
   }, [location]);
 
   return (
