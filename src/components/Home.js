@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <>
       <div>
-        <img src={logo} style={{ width: '400px', height: '267px' }} />
+        <img src={logo} style={{ width: '400px', height: '267px' }} alt='logo' />
       </div>
       <div style={{
         display: 'flex',
