@@ -28,7 +28,7 @@ const MapView = (props) => {
         ...state,
         data: {
           venues: state.data.venues.concat({
-            name: "new",
+            name: "Mi ubicación",
             geometry: [currentLocation.lat, currentLocation.lng],
           }),
         },
