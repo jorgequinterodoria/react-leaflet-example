@@ -1,11 +1,12 @@
 {
     "venues": [
         {
-            "fecha": "15-nov-22",
-            "name": "Mi casa",
+            "fecha": "16-nov-22",
+            "name": "Andrés Hernandez",
+            "costo": "$5000",
             "geometry": [
-                8.750974,
-                -75.864105
+                8.7494982,
+                -75.8869027
             ]
         },
         {
@@ -17,51 +18,30 @@
             ]
         },
         {
-            "fecha": "10-nov-22",
-            "name": "Pepito Perez",
+            "fecha": "16-nov-22",
+            "name": "Keila",
+            "costo": "$6000",
             "geometry": [
-                8.761035,
-                -75.873884
+                8.7474429,
+                -75.8893762
             ]
         },
         {
-            "fecha": "10-nov-22",
-            "name": "Juanito Juanes",
+            "fecha": "16-nov-22",
+            "name": "Telya Rojas",
+            "costo": "$5000",
             "geometry": [
-                8.7442037,
-                -75.88848
+                8.7776801,
+                -75.8693141
             ]
         },
         {
-            "fecha": "10-nov-22",
-            "name": "Cliente #2",
+            "fecha": "16-nov-22",
+            "name": "Elena Ramos",
+            "costo": "$4000",
             "geometry": [
-                8.768448,
-                -75.861068
-            ]
-        },
-        {
-            "fecha": "10-nov-22",
-            "name": "Cliente #3",
-            "geometry": [
-                8.769848,
-                -75.862809
-            ]
-        },
-        {
-            "fecha": "10-nov-22",
-            "name": "Cliente #4",
-            "geometry": [
-                8.7674927,
-                -75.8646847
-            ]
-        },
-        {
-            "fecha": "10-nov-22",
-            "name": "Cliente #5",
-            "geometry": [
-                8.7671941,
-                -75.864493
+                8.7779278,
+                -75.8624152
             ]
         }
     ]
