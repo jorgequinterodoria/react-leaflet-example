@@ -1,7 +1,7 @@
 {
     "venues": [
         {
-            "fecha": "16-nov-22",
+            "fecha": "17-nov-22",
             "name": "Andrés Hernandez",
             "costo": "$5000",
             "geometry": [
@@ -42,6 +42,96 @@
             "geometry": [
                 8.7779278,
                 -75.8624152
+            ]
+        },
+        {
+            "fecha": "18-nov-22",
+            "name": "Isabella",
+            "costo": "$6000",
+            "geometry": [
+                8.7527306,
+                -75.8883965
+            ]
+        },
+        {
+            "fecha": "18-nov-22",
+            "name": "Juliana Forero",
+            "costo": "$6000",
+            "geometry": [
+                8.7459143,
+                -75.8804443
+            ]
+        },
+        {
+            "fecha": "18-nov-22",
+            "name": "Cristian Ospina",
+            "costo": "$4000",
+            "geometry": [
+                8.7607932,
+                -75.8725563
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Alejandra",
+            "costo": "$6000",
+            "geometry": [
+                8.7824114,
+                -75.852025
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "317 5735738",
+            "costo": "$6000",
+            "geometry": [
+                8.7824114,
+                -75.852025
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "María Fernanda Carrascal",
+            "costo": "$4000",
+            "geometry": [
+                8.7641621,
+                -75.8763054
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Juan Camilo",
+            "costo": "$6000",
+            "geometry": [
+                8.786308,
+                -75.9022944
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Jose Ojeda",
+            "costo": "$4000",
+            "geometry": [
+                8.7686571,
+                -75.8639352
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "312 8431506",
+            "costo": "$4000",
+            "geometry": [
+                8.7777031,
+                -75.8725644
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Silvita Morales",
+            "costo": "$4000",
+            "geometry": [
+                8.7447409,
+                -75.8976737
             ]
         }
     ]
