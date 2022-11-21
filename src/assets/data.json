@@ -133,6 +133,132 @@
                 8.7447409,
                 -75.8976737
             ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "317 3635707",
+            "costo": "$4000",
+            "geometry": [
+                8.7710318,
+                -75.8688197
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Sebastián",
+            "costo": "$4000",
+            "geometry": [
+                8.7707335,
+                -75.8667022
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Paola Vargas",
+            "costo": "$4000",
+            "geometry": [
+                8.7707302,
+                -75.8650806
+            ]
+        },
+        {
+            "fecha": "19-nov-22",
+            "name": "Lore Sierra",
+            "costo": "$4000",
+            "geometry": [
+                8.7608049,
+                -75.8682619
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Andrés Hernandez",
+            "costo": "$5000",
+            "geometry": [
+                8.7495035,
+                -75.8869027
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Merly Montes",
+            "costo": "$4000",
+            "geometry": [
+                8.7643102,
+                -75.8768609
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "María Isabel",
+            "costo": "$5000",
+            "geometry": [
+                8.7508895,
+                -75.8852401
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Kelly Portillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7382181,
+                -75.8874927
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Xiomara Machado",
+            "costo": "$6000",
+            "geometry": [
+                8.746157,
+                -75.857615
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Karen González",
+            "costo": "$4000",
+            "geometry": [
+                8.7666053,
+                -75.8698548
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Elsy Cuartas",
+            "costo": "$6000",
+            "geometry": [
+                8.750793,
+                -75.864342
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Keila",
+            "costo": "$6000",
+            "geometry": [
+                8.7474482,
+                -75.8893762
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Atalia",
+            "costo": "$4000",
+            "geometry": [
+                8.7665782,
+                -75.8675562
+            ]
+        },
+        {
+            "fecha": "20-nov-22",
+            "name": "Natalia",
+            "costo": "$5000",
+            "geometry": [
+                8.7525519,
+                -75.8819947
+            ]
         }
     ]
 }
