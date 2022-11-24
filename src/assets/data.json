@@ -259,6 +259,60 @@
                 8.7525519,
                 -75.8819947
             ]
+        },
+        {
+            "fecha": "21-nov-22",
+            "name": "Kelly Portillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7382181,
+                -75.8874927
+            ]
+        },
+        {
+            "fecha": "21-nov-22",
+            "name": "Cristian Ospina",
+            "costo": "$4000",
+            "geometry": [
+                8.7607932,
+                -75.8725563
+            ]
+        },
+        {
+            "fecha": "22-nov-22",
+            "name": "Valentina",
+            "costo": "$4000",
+            "geometry": [
+                8.7579824,
+                -75.8659009
+            ]
+        },
+        {
+            "fecha": "22-nov-22",
+            "name": "Lisbeth",
+            "costo": "$4000",
+            "geometry": [
+                8.7718789,
+                -75.869932
+            ]
+        },
+        {
+            "fecha": "22-nov-22",
+            "name": "Sonia Leal",
+            "costo": "$4000",
+            "geometry": [
+                8.770603,
+                -75.8665927
+            ]
+        },
+        {
+            "fecha": "22-nov-22",
+            "name": "Sylvana Durango",
+            "costo": "$4000",
+            "geometry": [
+                8.7726731,
+                -75.8625499
+            ]
         }
     ]
 }
