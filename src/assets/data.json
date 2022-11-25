@@ -313,6 +313,60 @@
                 8.7726731,
                 -75.8625499
             ]
+        },
+        {
+            "fecha": "23-nov-22",
+            "name": "Andrés Hernandez",
+            "costo": "$5000",
+            "geometry": [
+                8.7494982,
+                -75.8869027
+            ]
+        },
+        {
+            "fecha": "23-nov-22",
+            "name": "María Margarita Pérez",
+            "costo": "$4000",
+            "geometry": [
+                8.7692722,
+                -75.8634043
+            ]
+        },
+        {
+            "fecha": "23-nov-22",
+            "name": "David",
+            "costo": "$5000",
+            "geometry": [
+                8.7460684,
+                -75.8760123
+            ]
+        },
+        {
+            "fecha": "24-nov-22",
+            "name": "Isabel Guzmán",
+            "costo": "$4000",
+            "geometry": [
+                8.7630048,
+                -75.8677729
+            ]
+        },
+        {
+            "fecha": "24-nov-22",
+            "name": "Angela",
+            "costo": "$5000",
+            "geometry": [
+                8.7607859,
+                -75.8757514
+            ]
+        },
+        {
+            "fecha": "24-nov-22",
+            "name": "María Velázquez",
+            "costo": "$4000",
+            "geometry": [
+                8.7714363,
+                -75.8625156
+            ]
         }
     ]
 }
