@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Map, TileLayer, LayersControl, LayerGroup } from "react-leaflet";
+import { Map, TileLayer } from "react-leaflet";
 import data from "../assets/dataNov.json";
 import dataDic from "../assets/dataDic.json";
 import { VenueMarkersDic, VenueMarkersNov } from "./VenueMarkers";
@@ -66,18 +66,8 @@ const MapView = (props) => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         />
-        <LayersControl position="topright">
-          <LayersControl.Overlay name="Noviembre">
-            <LayerGroup>
-              <VenueMarkersNov venues={state.data.venues} />
-            </LayerGroup>
-          </LayersControl.Overlay>
-          <LayersControl.Overlay name="Diciembre">
-            <LayerGroup>
-              <VenueMarkersDic venues={stateDic.dataDic.venues} />
-            </LayerGroup>
-          </LayersControl.Overlay>
-        </LayersControl>
+        <VenueMarkersNov venues={state.data.venues} />
+        <VenueMarkersDic venues={stateDic.dataDic.venues} />
       </Map>
     </>
   );
