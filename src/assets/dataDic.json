@@ -1,0 +1,61 @@
+{
+    "venues": [
+        {
+            "fecha": "01-dic-22",
+            "name": "Keila",
+            "costo": "$6000",
+            "geometry": [
+                8.7474429,
+                -75.8893762
+            ]
+        },
+        {
+            "fecha": "01-dic-22",
+            "name": "Alvaro Ruiz",
+            "costo": "$4000",
+            "geometry": [
+                8.7751018,-75.8688594
+            ]
+        },
+        {
+            "fecha": "02-dic-22",
+            "name": "Isabella",
+            "costo": "$4000",
+            "geometry": [
+                8.770312,-75.8611922
+            ]
+        },
+        {
+            "fecha": "02-dic-22",
+            "name": "Jaime Otero",
+            "costo": "$4000",
+            "geometry": [
+                8.7773063,-75.8707677
+            ]
+        },
+        {
+            "fecha": "02-dic-22",
+            "name": "Isabella Tamara",
+            "costo": "$4000",
+            "geometry": [
+                8.7694881,-75.8654514
+            ]
+        },
+        {
+            "fecha": "02-dic-22",
+            "name": "Maria Esther",
+            "costo": "$4000",
+            "geometry": [
+                8.7647392,-75.8700737
+            ]
+        },
+        {
+            "fecha": "02-dic-22",
+            "name": "Carlos Bustamante",
+            "costo": "$4000",
+            "geometry": [
+                8.7682176,-75.8678926
+            ]
+        }
+    ]
+}
