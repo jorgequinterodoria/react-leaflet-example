@@ -1,0 +1,116 @@
+{
+    "venues": [
+        {
+            "fecha": "01-may-23",
+            "name": "IVONNE CURA ",
+            "costo": "$4000",
+            "geometry": [
+                8.7758001,-75.8685471
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Vanessa Pérez",
+            "costo": "$4000",
+            "geometry": [
+                8.7611065,-75.8842795
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Luis Miguel Mendez",
+            "costo": "$4000",
+            "geometry": [
+                8.7726707,-75.8634881
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Juanita Pacheco",
+            "costo": "$4000",
+            "geometry": [
+                8.7765232,-75.8710145
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Alejandro Peláez",
+            "costo": "$4000",
+            "geometry": [
+                8.770312,-75.8611922
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Kelly Portillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7392626,-75.8873817
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Jose Sanchez",
+            "costo": "$5000",
+            "geometry": [
+                8.7530709,-75.885731
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Kelly Aguado",
+            "costo": "$4000",
+            "geometry": [
+                8.7683443,-75.8696607
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Ana Lucia Leal",
+            "costo": "$7000",
+            "geometry": [
+                8.7569168,-75.905752
+            ]
+        },
+        {
+            "fecha": "02-may-23",
+            "name": "Juan Pinilla",
+            "costo": "$5000",
+            "geometry": [
+                8.7621022,-75.8805859
+            ]
+        },
+        {
+            "fecha": "02-may-23",
+            "name": "Andrés Alvarez",
+            "costo": "$5000",
+            "geometry": [
+                8.7570586,-75.8662168
+            ]
+        },
+        {
+            "fecha": "03-may-23",
+            "name": "Alfonso Castillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7865661,-75.8601846
+            ]
+        },
+        {
+            "fecha": "04-may-23",
+            "name": "Uriel Morelo",
+            "costo": "$6000",
+            "geometry": [
+                8.7878754,-75.8662962
+            ]
+        },
+        {
+            "fecha": "04-may-23",
+            "name": "Karina Rubio",
+            "costo": "$4000",
+            "geometry": [
+                8.7600377,-75.86593
+            ]
+        }
+    ]
+}
