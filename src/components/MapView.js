@@ -41,8 +41,8 @@ const MapView = (props) => {
         currentLocation,
       });
       setStateDic({
-        ...state,
-        data: {
+        ...stateDic,
+        dataDic: {
           venues: stateDic.dataDic.venues.concat({
             name: "Mi ubicación",
             geometry: [currentLocation.lat, currentLocation.lng],
