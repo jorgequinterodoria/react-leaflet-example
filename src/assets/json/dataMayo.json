@@ -1,0 +1,284 @@
+{
+    "venues": [
+        {
+            "fecha": "01-may-23",
+            "name": "IVONNE CURA ",
+            "costo": "$4000",
+            "geometry": [
+                8.7758001,-75.8685471
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Vanessa Pérez",
+            "costo": "$4000",
+            "geometry": [
+                8.7611065,-75.8842795
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Luis Miguel Mendez",
+            "costo": "$4000",
+            "geometry": [
+                8.7726707,-75.8634881
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Juanita Pacheco",
+            "costo": "$4000",
+            "geometry": [
+                8.7765232,-75.8710145
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Alejandro Peláez",
+            "costo": "$4000",
+            "geometry": [
+                8.770312,-75.8611922
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Kelly Portillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7392626,-75.8873817
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Jose Sanchez",
+            "costo": "$5000",
+            "geometry": [
+                8.7530709,-75.885731
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Kelly Aguado",
+            "costo": "$4000",
+            "geometry": [
+                8.7683443,-75.8696607
+            ]
+        },
+        {
+            "fecha": "01-may-23",
+            "name": "Ana Lucia Leal",
+            "costo": "$7000",
+            "geometry": [
+                8.7569168,-75.905752
+            ]
+        },
+        {
+            "fecha": "02-may-23",
+            "name": "Juan Pinilla",
+            "costo": "$5000",
+            "geometry": [
+                8.7621022,-75.8805859
+            ]
+        },
+        {
+            "fecha": "02-may-23",
+            "name": "Andrés Alvarez",
+            "costo": "$5000",
+            "geometry": [
+                8.7570586,-75.8662168
+            ]
+        },
+        {
+            "fecha": "03-may-23",
+            "name": "Alfonso Castillo",
+            "costo": "$6000",
+            "geometry": [
+                8.7865661,-75.8601846
+            ]
+        },
+        {
+            "fecha": "04-may-23",
+            "name": "Uriel Morelo",
+            "costo": "$6000",
+            "geometry": [
+                8.7878754,-75.8662962
+            ]
+        },
+        {
+            "fecha": "04-may-23",
+            "name": "Karina Rubio",
+            "costo": "$4000",
+            "geometry": [
+                8.7600377,-75.86593
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Marina Vega",
+            "costo": "$4000",
+            "geometry": [
+                8.7704077,-75.8660998
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Juan Felipe Duque",
+            "costo": "$6000",
+            "geometry": [
+                8.7865714,-75.86019
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Humberto Negrete",
+            "costo": "$4000",
+            "geometry": [
+                8.762435,-75.8702646
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Elkin Morantes",
+            "costo": "$5000",
+            "geometry": [
+                8.7597934,-75.8691251
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Isabella Tamara",
+            "costo": "$4000",
+            "geometry": [
+                8.7694934,-75.8654568
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Andrés Hernandez",
+            "costo": "$4000",
+            "geometry": [
+                8.7469723,-75.8844014
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Suelly ramirez",
+            "costo": "$4000",
+            "geometry": [
+                8.7641376,-75.8757553
+            ]
+        },
+        {
+            "fecha": "05-may-23",
+            "name": "Maria Vega",
+            "costo": "$4000",
+            "geometry": [
+                8.7704077,-75.8660998
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Sara",
+            "costo": "$6000",
+            "geometry": [
+                8.7865714,-75.86019
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Melissa Hernández",
+            "costo": "$5000",
+            "geometry": [
+                8.7621234,-75.8741142,17
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Efren",
+            "costo": "$7000",
+            "geometry": [
+                8.7432021,-75.8933886
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Oleida ramos",
+            "costo": "$4000",
+            "geometry": [
+                8.7666053,-75.8682079
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Valentina Isaza",
+            "costo": "$5000",
+            "geometry": [
+                8.7497675,-75.8853792
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Luis Miguel Mendez",
+            "costo": "$4000",
+            "geometry": [
+                8.772676,-75.8634935
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Sandra Lacutir",
+            "costo": "$4000",
+            "geometry": [
+                8.7662205,-75.8658024
+            ]
+        },
+        {
+            "fecha": "06-may-23",
+            "name": "Liz Barrera",
+            "costo": "$7000",
+            "geometry": [
+                8.7469157,-75.8942282
+            ]
+        },
+        {
+            "fecha": "07-may-23",
+            "name": "Pablo Suarez",
+            "costo": "$4000",
+            "geometry": [
+                8.7774082,-75.8693179
+            ]
+        },
+        {
+            "fecha": "07-may-23",
+            "name": "Antonella Lora",
+            "costo": "$7000",
+            "geometry": [
+                8.7823153,-75.8542395
+            ]
+        },
+        {
+            "fecha": "07-may-23",
+            "name": "Jeimy Burgos",
+            "costo": "$7000",
+            "geometry": [
+                8.7628327,-75.8988244
+            ]
+        },
+        {
+            "fecha": "07-may-23",
+            "name": "Isabella Tamara",
+            "costo": "$4000",
+            "geometry": [
+                8.7694934,-75.8654568
+            ]
+        },
+        {
+            "fecha": "07-may-23",
+            "name": "Nela Yabur",
+            "costo": "$6000",
+            "geometry": [
+                8.744656,-75.8884401
+            ]
+        }
+    ]
+}

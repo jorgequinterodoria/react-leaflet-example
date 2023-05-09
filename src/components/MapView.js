@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Map, TileLayer, LayersControl, LayerGroup } from "react-leaflet";
-import data from "../assets/dataNov.json";
-import dataDic from "../assets/dataDic.json";
-import dataMay from "../assets/dataMayo.json";
+import data from "../assets/json/dataNov.json";
+import dataDic from "../assets/json/dataDic.json";
+import dataMay from "../assets/json/dataMayo.json";
 import {
   VenueMarkersDic,
   VenueMarkersNov,

@@ -1,8 +1,8 @@
 import L from "leaflet";
 
 export const VenueLocationIconNoviembre = L.icon({
-  iconUrl: require("../assets/noviembre.svg"),
-  iconRetinaUrl: require("../assets/noviembre.svg"),
+  iconUrl: require("../assets/svg/noviembre.svg"),
+  iconRetinaUrl: require("../assets/svg/noviembre.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -11,8 +11,8 @@ export const VenueLocationIconNoviembre = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconDiciembre = L.icon({
-  iconUrl: require("../assets/diciembre.svg"),
-  iconRetinaUrl: require("../assets/diciembre.svg"),
+  iconUrl: require("../assets/svg/diciembre.svg"),
+  iconRetinaUrl: require("../assets/svg/diciembre.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -21,8 +21,8 @@ export const VenueLocationIconDiciembre = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconEnero = L.icon({
-  iconUrl: require("../assets/enero.svg"),
-  iconRetinaUrl: require("../assets/enero.svg"),
+  iconUrl: require("../assets/svg/enero.svg"),
+  iconRetinaUrl: require("../assets/svg/enero.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -31,8 +31,8 @@ export const VenueLocationIconEnero = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconFebrero = L.icon({
-  iconUrl: require("../assets/febrero.svg"),
-  iconRetinaUrl: require("../assets/febrero.svg"),
+  iconUrl: require("../assets/svg/febrero.svg"),
+  iconRetinaUrl: require("../assets/svg/febrero.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -41,8 +41,8 @@ export const VenueLocationIconFebrero = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconMarzo = L.icon({
-  iconUrl: require("../assets/marzo.svg"),
-  iconRetinaUrl: require("../assets/marzo.svg"),
+  iconUrl: require("../assets/svg/marzo.svg"),
+  iconRetinaUrl: require("../assets/svg/marzo.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -51,8 +51,8 @@ export const VenueLocationIconMarzo = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconAbril = L.icon({
-  iconUrl: require("../assets/abril.svg"),
-  iconRetinaUrl: require("../assets/abril.svg"),
+  iconUrl: require("../assets/svg/abril.svg"),
+  iconRetinaUrl: require("../assets/svg/abril.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
@@ -61,8 +61,8 @@ export const VenueLocationIconAbril = L.icon({
   className: "leaflet-venue-icon",
 });
 export const VenueLocationIconMayo = L.icon({
-  iconUrl: require("../assets/mayo.svg"),
-  iconRetinaUrl: require("../assets/mayo.svg"),
+  iconUrl: require("../assets/svg/mayo.svg"),
+  iconRetinaUrl: require("../assets/svg/mayo.svg"),
   iconAnchor: null,
   shadowUrl: null,
   shadowSize: null,
